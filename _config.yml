@@ -28,21 +28,21 @@ url:              http://improved-life.in
     
 # Owner/author information
 owner:
-  name:           Sanket Parmar 
-  avatar:         mugshot.png
-  email:          sanketsparmar@gmail.com 
+  name:           improved-life.in 
+  #avatar:         mugshot.png
+  email:          contact@improved-life.in
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Software Developer.
+  #description:    Software Developer.
   # Social networking links used in footer. Update and remove as you like.
-  #twitter:        riichard 
+  #twitter:        sanketparmar 
   #facebook:       sanketsparmar 
-  #vine:           riichard 
+  #vine:           sanketparmar 
   #github:         sanketparmar 
   #linkedin:       https://www.linkedin.com/in/sanketparmar
-  #instagram:      riichard
-  #foursquare:     riichard
+  #instagram:      sanketparmar
+  #foursquare:     sanketparmar
   #dotfiles:       https://github.com/sanketparmar/dotfiles
-  #spotify:        riichard
+  #spotify:        sanketparmar
   #partner:        http://fiberopticnow.github.io/ 
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    https://plus.google.com/u/0/102602916593522619858
@@ -91,8 +91,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://improved-life.com/'
-  relativeLinks: 'http://improved-life/links.jsonp'
+  siteurl: 'http://improved-life.in/'
+  relativeLinks: 'http://improved-life.in/links.jsonp'
   media: 'images'
   metadata:
     _posts:
