@@ -69,8 +69,8 @@ highlighter: rouge
 markdown:    kramdown
 
 #gems: [jekyll-paginate]
-#paginate:    6
-#paginate_path: "page:num"
+paginate:    6
+paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title
